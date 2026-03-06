@@ -61,6 +61,6 @@ class CriticalLinks {
                 low[u] = Math.min(low[u], disc[v]);
         }
     }
-}
+}
 
 
